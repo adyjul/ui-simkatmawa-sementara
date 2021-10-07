@@ -836,6 +836,7 @@ main-table
 }
 
 .btn-success {
+    padding: 4px 9px;
     color: #fff;
     background-color: #36bea6;
     border-color: #36bea6;
@@ -875,6 +876,10 @@ main-table
 	  color:#585858;
 }
 
+.btn-danger{
+    padding: 4px 9px;
+}
+
 
 
 /*---------------------------------
@@ -908,6 +913,7 @@ footer.footer ul {
     color: #6c757d!important;
 	font-size:14px;
 }
+
  
 
 /*---------------------------------
